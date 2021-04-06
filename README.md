@@ -1,0 +1,2 @@
+# nRF5_SDK_SMARTMASK
+ 
